@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\Danila\Desktop\ИП\П2\Circle\Circle\Source.cpp(12,27): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Danila\Desktop\ИП\П2\Circle\Circle\Source.cpp(12,24): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Danila\Desktop\ИП\П2\Circle\Circle\Source.cpp(12,21): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Danila\Desktop\ИП\П2\Circle\Circle\Source.cpp(23,87): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Danila\Desktop\ИП\П2\Circle\Circle\Source.cpp(23,84): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Danila\Desktop\ИП\П2\Circle\Circle\Source.cpp(23,81): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Danila\Desktop\ИП\П2\Circle\Circle\Source.cpp(24,83): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Danila\Desktop\ИП\П2\Circle\Circle\Source.cpp(24,80): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Danila\Desktop\ИП\П2\Circle\Circle\Source.cpp(24,77): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  Circle.vcxproj -> C:\Users\Danila\Desktop\ИП\П2\Circle\x64\Debug\Circle.exe
